@@ -1,0 +1,1 @@
+CVE writeup for PHPGurukul.
